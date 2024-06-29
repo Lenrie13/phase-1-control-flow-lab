@@ -40,7 +40,7 @@ function switchOnCharmFromTip(clientTip) {
   }
   return response;
 }
-console.log(switchOnCharmFromTip("generous"));
+console.log(switchOnCharmFromTip("thanks for everything"));
 
 // // Write your code here!
 
